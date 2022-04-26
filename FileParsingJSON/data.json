@@ -1,0 +1,15 @@
+{
+    "data": [
+    {
+        "title": "cars",
+        "items": ["benz","audi","bmw"]
+    },
+    {
+        "title": "fruits",
+        "items": ["apple","grapes","mangoes"]
+    },
+    {
+        "title": "states",
+        "items": ["Karnataka","Andhra  Pradesh","Kerala"]
+    }]
+}
